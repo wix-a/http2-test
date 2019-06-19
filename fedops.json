@@ -1,0 +1,11 @@
+{
+    "appName": "http2-test",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "http2-test"
+    ]
+  }
